@@ -17,3 +17,8 @@ rails db:migrate
 ```
 rails server
 ```
+
+## Specs
+```
+rspec
+```
