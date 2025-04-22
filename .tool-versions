@@ -1,0 +1,4 @@
+ruby 3.4.3
+bundler 2.6.8
+yarn 1.22.19
+nodejs 22.14.0
